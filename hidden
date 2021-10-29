@@ -1,0 +1,13 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Species",
+        "value": "what?"
+      }
+    ],
+    "description": "This is what",
+    "image": "https://pbs.twimg.com/profile_images/978526727604387840/WcWvDE6W_400x400.jpg",
+    "name": "Cat",
+    "external_url": "https://twitter.com/0xmend",
+    "background_color":"FFFFFF"
+}

@@ -1,14 +1,13 @@
 {
     "attributes": [
       {
-        "trait_type": "Species",
-        "value": "Cat"
+        "trait_type": "Gender",
+        "value": "Female"
       }
     ],
-    "description": "This a cat",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/VAN_CAT.png/600px-VAN_CAT.png",
-    "name": "Cat",
+    "description": "Vibe",
+    "image": "https://gateway.pinata.cloud/ipfs/QmaEPEVQVerrPitCarvAQh9hKyXxMPet4nixWHBCi3e9kh/1.png",
+    "name": "Vibeheads",
     "external_url": "https://twitter.com/0xmend",
-    "background_color":"FFFFFF",
-    "animation_url":"https://media1.giphy.com/media/8vQSQ3cNXuDGo/giphy.gif?cid=ecf05e47com6nvq99l096rs5s3k3cp8wwjnm7q7nmhpbcovq&rid=giphy.gif&ct=g"
+    "background_color":"FFFFFF"
 }

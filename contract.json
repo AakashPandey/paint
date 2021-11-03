@@ -1,8 +1,8 @@
 {
-  "name": "FakeHeadsPass",
-  "description": "This is fakeheads pass used to redeem fakeheads",
-  "image": "https://pbs.twimg.com/profile_images/1446222752558432264/T7UcNQK-_400x400.jpg",
-  "external_link": "https://twitter.com",
-  "seller_fee_basis_points": 100,
-  "fee_recipient": "0x837322633AB61604416281BAa5E1C60A88612FDF"
+    "description": "The fakeheadspass can be used to redeem a fakehead", 
+    "external_url": "https://twitter.com", 
+    "image": "https://pbs.twimg.com/profile_images/1446222752558432264/T7UcNQK-_400x400.jpg",
+    "external_link": "https://twitter.com",
+    "seller_fee_basis_points": 100,
+    "fee_recipient": "0x3e23ABAdC5408B1A14B598a2c8bc2581dd3913dF"
 }
